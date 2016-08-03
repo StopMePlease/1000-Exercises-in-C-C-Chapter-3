@@ -38,3 +38,27 @@ Exe_335: Viết hàm đếm số lượng số nguyên tố trong ma trận nguy
 Exe_336: Đếm tần suất xuất hiện của 1 giá trị x trong ma trận thực
 
 Exe_337: Đếm số chữ số trong ma trận nguyên
+
+Exe_338: Đếm số lượng số dương trên 1 hàng trong ma trận thực
+
+Exe_339: Đếm số lượng số hoàn thiện trên 1 hàng trong ma trận nguyên
+
+Exe_340: Đếm số lượng số âm trên 1 cột trong ma trận thực
+
+Exe_341: Đếm số lượng số dương trên biên ma trận thực
+
+Exe_342: Đếm số lượng phần tử cực đai trong ma trận thực. Một phần tử gọi là cực đại khi nó lớn hơn các phần tử xung quanh
+
+Exe_343: Đếm số lượng phần tử cực trị trong ma trận thực. Một phần tử gọi là cực trị khi nó lớn hơn hoặc nhỏ hơn các phần tử xung quanh
+
+Exe_344: 
+
+Exe_345: Tính tổng các phần tử cực trị
+
+Exe_346: Đếm số lượng giá trị "Hoàng Hậu" trong ma trận thực. 1 phần tử gọi là Hoàng Hậu khi nó lớn hơn trên dòng trên cột và hai đường chéo đi qua nó
+
+Exe_347: Đếm số lượng giá trị "Yên Ngựa" trong ma trận thực. 1 phần tử gọi là Yên Ngựa khi nó lớn nhất trên dòng và hỏ nhất trên trên cột
+
+// Kỹ thuật đặt cờ hiệu
+
+Exe_348:
