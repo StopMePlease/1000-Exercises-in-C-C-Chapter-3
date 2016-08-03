@@ -61,4 +61,42 @@ Exe_347: Đếm số lượng giá trị "Yên Ngựa" trong ma trận thực. 1
 
 // Kỹ thuật đặt cờ hiệu
 
-Exe_348:
+Exe_348: Kiểm tra ma trận có tồn tại số dương hay không
+
+Exe_349: Kiểm tra ma trận có tồn tại số hoàn thiện hay không
+
+Exe_350: Kiểm tra ma trận có tồn tại số lẻ hay không
+
+Exe_351: Kiểm tra ma trận có toàn dương hay không
+
+Exe_352: Kiểm tra 1 hàng ma trận có tăng dần hay không
+
+Exe_353: Kiểm tra 1 cột ma trận có giảm dần hay không
+
+Exe_354: Kiểm tra trong ma trận có giảm dần theo hàng và theo cột hay không
+
+Exe_355: Liệt kê dòng toàn âm trong ma trận
+
+Exe_356: Liệt kê chỉ số các dòng chứa toàn giá trị chẵn trong ma trận nguyên
+
+Exe_357: Liệt kê các dòng chứa số nguyên tố trong ma trận nguyên
+
+Exe_358: Liệt kê các dòng chứa giá trị chẵn trong ma trận nguyên
+
+Exe_359:  Liệt kê các dòng chứa giá trị âm trong ma trận thực
+
+Exe_360: Liệt kê các cột trong ma trận nguyên chứa số chính phương
+
+Exe_361: Liệt kê các dòng trong ma trận thực thõa mãn đồng thời các điều kiện sau: dòng chứa giá trị âm, giá trị dương, và giá trị 0
+
+Exe_362: Liệt kê các dòng giảm dần trong ma trận thực
+
+Exe_363: Liệt kê các cột tăng dần trong ma trận thực
+
+Exe_364: Cho hai ma trận A và B. Kiểm tra A có là con B?
+
+Exe_365: Cho hai ma trận A và B. Đếm số lần A xuất hiện trong B?
+
+// Kỹ thuật đặt lính canh
+
+Exe_366: 
