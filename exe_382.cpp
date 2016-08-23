@@ -49,7 +49,7 @@ void Result(int a[][100], int m, int n)
 				break;
 			}
 		}
-		if(count_even)
+		if(Check(count_even))
 		{
 			break;
 		}
